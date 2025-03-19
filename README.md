@@ -1,7 +1,6 @@
 # Hi!
 I'm Lenni from Germany, coding on some projects.
-My store: [lennistore](https://lenni.mysellix.io/)
-Telegram: [@thelenni](https://t.me/thelenni)
+Discord: dope.lol
 
 # Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=78buic09azh0aghqtt410l1s4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://invalidlenni.de/)
